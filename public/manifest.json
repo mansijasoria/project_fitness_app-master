@@ -1,0 +1,49 @@
+{
+    "name": "Fit For You",
+    "short_name": "FitForYou",
+    "description": "For individuals of all fitness levels achieve their health and fitness goals.",
+    "icons": [
+      {
+        "src": "/muscle3.png",
+        "sizes": "144x144",
+        "type": "image/png"
+      },
+      {
+        "src": "/muscle2.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      },
+      {
+        "src": "/muscle.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ],
+    "theme_color": "#ffdf86",
+    "background_color": "#ffffff",
+    "start_url": "/",
+    "display": "standalone",
+    "orientation": "portrait",
+    "dir": "auto",
+    "lang": "en",
+    "scope": "/",
+    "shortcuts": [
+      {
+        "name": "exercises",
+        "url": "/#",
+        "description": "Exercise tab"
+      }
+    ],
+    "screenshots": [
+      {
+          "src": "/public/screenshot.png",
+          "sizes": "2880x1800",
+          "type": "image/png",
+          "description": "A screenshot of the home page"
+      }
+  ],
+    "categories": [
+      "fitness",
+      "health"
+    ]
+  }
